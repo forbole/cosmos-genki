@@ -5,7 +5,7 @@ Gathering spirits from the Cosmos
 
 Instructions for the Network Start
 
-## Submit a genesis transction.
+## Submit a genesis transaction.
 
 We are trying to start a testnet from the Cosmos Validator Community to test the bug fixes and practice the start of Game of Stakes.
 
