@@ -11,7 +11,7 @@ We are trying to start a testnet from the Cosmos Validator Community to test the
 
 To be bonded at genesis, you need to generate a genesis transaction and submit it by 2018-12-07 15:00 UTC.
 
-The final genesis.json will all the bonded particpants will be released before the end of 2018-12-07 UTC. We are going to use the tool developed from Certus One to verify the gentx files and create the genesis file.
+The final genesis.json will all the bonded particpants will be released before the end of 2018-12-07 UTC. We are going to use the tool developed by Certus One to verify the gentx files and create the genesis file.
 
 ### To generate a genesis transaction,
 
