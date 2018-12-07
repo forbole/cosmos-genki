@@ -38,4 +38,4 @@ gaiad gentx \
 
 This will generate a file roughly like `$HOME/.gaiad/config/gentx/gentx-c00ce0b868bd5d5576d23f0ad1090f3f478b7961.json`
 
-Please submit this file in `gentx` folder in a Pull Request on this repository.
+Please submit this file using the [Certus One Genesis Collector](https://genesis.certus.one/registration/1).
